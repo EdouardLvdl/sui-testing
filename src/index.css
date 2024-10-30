@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #6B3BA8;
+  --primary-dark: #532D82;
+  --secondary: #F6F4FF;
+}
+
+body {
+  background: linear-gradient(135deg, #F6F4FF 0%, #FFFFFF 100%);
+}
